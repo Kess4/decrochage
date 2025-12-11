@@ -88,12 +88,6 @@ Le dataset contient **30 variables** conformes RGPD :
 - **Classes réalistes** : Groupes par programme et année
 - **Variables cibles** : `risque_score` et `decrochage` seront prédites par le modèle ML
 
-## Prochaines étapes
-
-1. ✅ Génération du dataset (conforme RGPD)
-2. ✅ Création du modèle ML (notebook Jupyter)
-3. ✅ Création du tableau de bord interactif (POC)
-
 ## Modèle ML
 
 Le notebook `modele_prediction_decrochage.ipynb` contient :
